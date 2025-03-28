@@ -2,9 +2,10 @@
 <resources>
     <color name="dark_background">#121212</color>
     <color name="card_background">#1A1D21</color>
-    <color name="text_secondary">#9CA3AF</color>
-    <color name="white">#FFFFFF</color>
     <color name="blue_button">#007AFF</color>
-    <color name="stroke_color">#2A2D31</color>
-    <color name="radio_unchecked">#6B7280</color>
+    <color name="blue_button_pressed">#0066CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_400">#9CA3AF</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="black">#000000</color>
 </resources>
